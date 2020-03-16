@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28ca415-bce9-490f-92d9-39912927be92" name="Default Changelist" comment="" />
+    <list default="true" id="b28ca415-bce9-490f-92d9-39912927be92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="be82e6c1-9732-46dc-9b28-5e937545676a" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YTS8BtPVuNcHJ3LC3O7ZW1kmgv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,11 +44,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26666668" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -130,6 +145,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583503927074" />
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584360983884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-199.-1080.1920.1080@0.0.1440.900" timestamp="1584360983884" />
     <state x="231" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583502275263">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -170,10 +189,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583057646459" />
-    <state x="229" y="66" key="SettingsEditor" timestamp="1583503840673">
+    <state x="229" y="66" key="SettingsEditor" timestamp="1584360838124">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="229" y="66" key="SettingsEditor/0.0.1440.900/-199.-1080.1920.1080@0.0.1440.900" timestamp="1584360838124" />
     <state x="229" y="66" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583503840673" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1584360907786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900/-199.-1080.1920.1080@0.0.1440.900" timestamp="1584360907786" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582977484077">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

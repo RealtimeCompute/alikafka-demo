@@ -9,9 +9,5 @@
         <module name="blink-datastreaming" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="blink-datastreaming-" target="1.8" />
-      <module name="datahub-demo" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
